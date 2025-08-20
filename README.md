@@ -1,14 +1,14 @@
 # Mastering Your PhD: Survival and Success in the Doctoral Years and Beyond
+
 **精通博士之路：博士求学阶段及未来的生存与成功指南**
 
-
-博士生存指南原书：Mastering Your PhD: Survival and Success in the Doctoral Years and Beyond (Third Edition) 
+博士生存指南原书：Mastering Your PhD: Survival and Success in the Doctoral Years and Beyond (Third Edition)
 
 原书下载地址：https://link.springer.com/book/10.1007/978-3-031-11417-5
 
 # 本书章节
 
-1. Choosing a Research Group: Pluses and Pitfalls (选择科研团队：利与弊)
+1. Choosing a Research Group: Pluses and Pitfalls [选择科研团队：利与弊](./chapter/1.md)
 
 2. Getting Started (如何顺利起步)
 
@@ -58,6 +58,6 @@
 
 25. Lessons Learned (学到的经验与启示)
 
-
 # 版权声明
-本书使用GPT-5翻译，仅限于学术交流
+
+本书使用 GPT-5 翻译，仅限于学术交流
